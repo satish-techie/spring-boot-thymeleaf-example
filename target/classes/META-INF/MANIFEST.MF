@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Satish G
+Build-Jdk: 11.0.1
+Implementation-Title: spring-boot-thymeleaf-example
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.satish.thymeleaf
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/spring-boot-thymeleaf-example
+Created-By: Maven Integration for Eclipse
+
